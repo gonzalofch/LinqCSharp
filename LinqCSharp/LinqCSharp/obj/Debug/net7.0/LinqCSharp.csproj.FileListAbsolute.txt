@@ -1,0 +1,15 @@
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\bin\Debug\net7.0\LinqCSharp.exe
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\bin\Debug\net7.0\LinqCSharp.deps.json
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\bin\Debug\net7.0\LinqCSharp.runtimeconfig.json
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\bin\Debug\net7.0\LinqCSharp.dll
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\bin\Debug\net7.0\LinqCSharp.pdb
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.AssemblyInfoInputs.cache
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.AssemblyInfo.cs
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.sourcelink.json
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.dll
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\refint\LinqCSharp.dll
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.pdb
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\LinqCSharp.genruntimeconfig.cache
+C:\Users\gonzalofc\FCTS\LinqCSharp\LinqCSharp\obj\Debug\net7.0\ref\LinqCSharp.dll
