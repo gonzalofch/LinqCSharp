@@ -1,0 +1,15 @@
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\bin\Debug\net7.0\NonGenericHashTable.exe
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\bin\Debug\net7.0\NonGenericHashTable.deps.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\bin\Debug\net7.0\NonGenericHashTable.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\bin\Debug\net7.0\NonGenericHashTable.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\bin\Debug\net7.0\NonGenericHashTable.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.sourcelink.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\refint\NonGenericHashTable.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\NonGenericHashTable.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericHashTable\NonGenericHashTable\NonGenericHashTable\obj\Debug\net7.0\ref\NonGenericHashTable.dll

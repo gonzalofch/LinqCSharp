@@ -1,0 +1,15 @@
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.sourcelink.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\bin\Debug\net7.0\GenericDictionary.exe
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\bin\Debug\net7.0\GenericDictionary.deps.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\bin\Debug\net7.0\GenericDictionary.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\bin\Debug\net7.0\GenericDictionary.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\bin\Debug\net7.0\GenericDictionary.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\refint\GenericDictionary.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\GenericDictionary.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\LinqCSharp\GenericDictionary\obj\Debug\net7.0\ref\GenericDictionary.dll

@@ -1,0 +1,15 @@
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\bin\Debug\net7.0\NonGenericSortedList.exe
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\bin\Debug\net7.0\NonGenericSortedList.deps.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\bin\Debug\net7.0\NonGenericSortedList.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\bin\Debug\net7.0\NonGenericSortedList.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\bin\Debug\net7.0\NonGenericSortedList.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.sourcelink.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\refint\NonGenericSortedList.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\NonGenericSortedList.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericSortedList\NonGenericSortedList\NonGenericSortedList\obj\Debug\net7.0\ref\NonGenericSortedList.dll

@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gonzalofc\\LinqCSharp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\Generic\\GenericStack\\GenericStack\\GenericStack\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Collections\\Generic\\GenericStack\\GenericStack\\GenericStack\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\NonGeneric\\NonGenericHashTable\\NonGenericHashTable\\NonGenericHashTable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Collections\\NonGeneric\\NonGenericHashTable\\NonGenericHashTable\\NonGenericHashTable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs",
+              "RelativeToolTip": "Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:46:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\Generic\\GenericStack\\GenericStack\\GenericStack\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Generic\\GenericStack\\GenericStack\\GenericStack\\Program.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\Generic\\GenericStack\\GenericStack\\GenericStack\\Program.cs",
+              "RelativeToolTip": "Collections\\Generic\\GenericStack\\GenericStack\\GenericStack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:44:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList\\Program.cs",
+              "RelativeToolTip": "Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:41:46.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\NonGeneric\\NonGenericHashTable\\NonGenericHashTable\\NonGenericHashTable\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\NonGeneric\\NonGenericHashTable\\NonGenericHashTable\\NonGenericHashTable\\Program.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\LinqCSharp\\Collections\\NonGeneric\\NonGenericHashTable\\NonGenericHashTable\\NonGenericHashTable\\Program.cs",
+              "RelativeToolTip": "Collections\\NonGeneric\\NonGenericHashTable\\NonGenericHashTable\\NonGenericHashTable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T22:41:38.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

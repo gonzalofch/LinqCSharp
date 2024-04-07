@@ -1,0 +1,15 @@
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\bin\Debug\net7.0\NonGenericQueue.exe
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\bin\Debug\net7.0\NonGenericQueue.deps.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\bin\Debug\net7.0\NonGenericQueue.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\bin\Debug\net7.0\NonGenericQueue.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\bin\Debug\net7.0\NonGenericQueue.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.sourcelink.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\refint\NonGenericQueue.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\NonGenericQueue.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericQueue\NonGenericQueue\NonGenericQueue\obj\Debug\net7.0\ref\NonGenericQueue.dll

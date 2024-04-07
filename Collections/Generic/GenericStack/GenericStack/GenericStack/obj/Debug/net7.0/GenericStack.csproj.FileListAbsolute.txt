@@ -1,0 +1,15 @@
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\bin\Debug\net7.0\GenericStack.exe
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\bin\Debug\net7.0\GenericStack.deps.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\bin\Debug\net7.0\GenericStack.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\bin\Debug\net7.0\GenericStack.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\bin\Debug\net7.0\GenericStack.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.sourcelink.json
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\refint\GenericStack.dll
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.pdb
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\GenericStack.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\Generic\GenericStack\GenericStack\GenericStack\obj\Debug\net7.0\ref\GenericStack.dll
