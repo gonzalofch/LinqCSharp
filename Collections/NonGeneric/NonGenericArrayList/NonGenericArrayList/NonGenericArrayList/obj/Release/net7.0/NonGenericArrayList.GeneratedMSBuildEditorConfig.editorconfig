@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NonGenericArrayList
-build_property.ProjectDir = C:\Users\Gonzalo\Desktop\LinqCSharp\Collections\NonGeneric\NonGenericArrayList\NonGenericArrayList\NonGenericArrayList\
+build_property.ProjectDir = C:\Users\gonzalofc\LinqCSharp\Collections\NonGeneric\NonGenericArrayList\NonGenericArrayList\NonGenericArrayList\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

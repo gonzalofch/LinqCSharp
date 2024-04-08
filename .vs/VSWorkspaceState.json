@@ -3,17 +3,15 @@
     "",
     "\\Collections",
     "\\Collections\\Generic",
-    "\\Collections\\Generic\\GenericQueue",
-    "\\Collections\\Generic\\GenericQueue\\GenericQueue",
-    "\\Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue",
+    "\\Collections\\Generic\\GenericDictionary",
+    "\\Collections\\Generic\\GenericDictionary\\GenericDictionary",
     "\\Collections\\Generic\\GenericStack",
     "\\Collections\\Generic\\GenericStack\\GenericStack",
     "\\Collections\\Generic\\GenericStack\\GenericStack\\GenericStack",
-    "\\Collections\\NonGeneric",
-    "\\Collections\\NonGeneric\\NonGenericSortedList",
-    "\\Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList",
-    "\\Collections\\NonGeneric\\NonGenericSortedList\\NonGenericSortedList\\NonGenericSortedList"
+    "\\LinqCSharp",
+    "\\LinqCSharp\\LinqCSharp",
+    "\\LinqCSharp\\LinqCSharp\\Tests"
   ],
-  "SelectedNode": "\\Collections\\Generic\\GenericQueue\\GenericQueue\\GenericQueue\\Program.cs",
+  "SelectedNode": "\\LinqCSharp\\LinqCSharp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
